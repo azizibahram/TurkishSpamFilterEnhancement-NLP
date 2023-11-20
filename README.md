@@ -4,11 +4,11 @@ Research on detecting offensive language in Turkish social media using NLP. Impl
 
 ## Dataset
 
-The dataset used for this project can be downloaded from (here)[https://www.kaggle.com/cuneytdemir/turkish-spam-dataset]. Please note that you'll need to agree to their terms and conditions before downloading.
+The dataset used for this project can be downloaded from [here](https://www.kaggle.com/cuneytdemir/turkish-spam-dataset). Please note that you'll need to agree to their terms and conditions before downloading.
 
 ## Libraries
 
-This project uses the `zemberk-nlp` library. You can download it from (here)[https://github.com/ahmetaa/zemberek-nlp]. Please follow the installation instructions provided on the page.
+This project uses the `zemberk-nlp` library. You can download it from [here](https://github.com/ahmetaa/zemberek-nlp). Please follow the installation instructions provided on the page.
 
 ## Installation
 
