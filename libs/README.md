@@ -1,0 +1,1 @@
+You can download the jar file from  https://github.com/ahmetaa/zemberek-nlp
