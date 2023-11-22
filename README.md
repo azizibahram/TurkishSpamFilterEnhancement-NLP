@@ -16,6 +16,6 @@ After downloading the dataset and the `zemberk-nlp` library, you can install the
 
 ## Usage
 
-You can then run the project by executing `python main.py`.
+You can then run the project by executing `baseline`.
 
 We hope you find this project useful. If you have any questions or feedback, please feel free to open an issue or submit a pull request.
