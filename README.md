@@ -9,10 +9,6 @@ The dataset used for this project can be downloaded from [here](https://www.kagg
 
 This project uses the `zemberk-nlp` library. You can download it from [here](https://github.com/ahmetaa/zemberek-nlp). Please follow the installation instructions provided on the page.
 
-## Installation
-
-After downloading the dataset and the `zemberk-nlp` library, you can install the necessary dependencies by running `pip install -r requirements.txt`.
-
 ## Usage
 
 You can then run the project by executing `baseline`.
